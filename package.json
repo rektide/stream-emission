@@ -1,0 +1,12 @@
+{
+	"name": "stream-emission",
+	"description": "Create a stream for every event-type on an EventEmitter",
+	"version": "1.0.0",
+	"main": "stream-emission.js",
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/stream-emission"
+	},
+	"author": "rektide de la faye",
+	"license": "X"
+}
